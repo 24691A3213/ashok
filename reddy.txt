@@ -1,2 +1,1 @@
-hi github ashok
-namaste
+hello reddy devops exam
